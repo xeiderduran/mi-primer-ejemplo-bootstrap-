@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+}
+header{
+  background-color: gray;
+}
+.color1{
+  background-color: green;
+}
+.color2{
+  background-color:
+  white;
+}
+article{
+  background-color: orange;
+}
+aside{
+  background-color: red;
+}
+.primera{
+  background-color: yellow;
+}
+img{
+  width: 100%;
+}
